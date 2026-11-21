@@ -1,0 +1,14 @@
+Conclusiones
+
+A partir del análisis realizado, se identificó que las emisiones de CO₂ en Colombia han aumentado considerablemente desde 1856 hasta 2025, 
+especialmente durante las últimas décadas. Aunque se presentan algunos periodos de disminución, la tendencia histórica general continúa siendo creciente.
+
+
+Durante la preparación de los datos, se verificaron 170 registros correspondientes a Colombia y no fue necesario eliminar información, ya que los datos 
+utilizados no presentaron valores faltantes ni inconsistencias que requirieran su eliminación.
+
+Las visualizaciones permitieron comprender mejor el comportamiento de las emisiones, comparar diferentes décadas e identificar los años en los que se presentaron los cambios más significativos.
+
+Finalmente, mediante la regresión lineal se identificó una tendencia de crecimiento en las emisiones. Sin embargo, los resultados de evaluación mostraron que el modelo tiene limitaciones para 
+realizar predicciones precisas, debido a las variaciones que presentan los datos a lo largo del tiempo. En general, este proyecto permitió aplicar herramientas de ciencia de datos para organizar,
+visualizar e interpretar información ambiental, demostrando la importancia del análisis de datos para comprender la evolución de las emisiones de CO₂ en Colombia.
