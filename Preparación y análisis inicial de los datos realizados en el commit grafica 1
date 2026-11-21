@@ -1,0 +1,8 @@
+EN GRAFICA 1 SE REALIZARON LOS SIGUIENTES CAMBIOS: 
+
+Preparación y análisis inicial de los datos
+
+Para comenzar el proyecto, se descargó una base de datos de Our World in Data que contiene información sobre las emisiones de CO₂ de diferentes países. Posteriormente, 
+se seleccionaron únicamente los datos de Colombia y se organizaron por año. Después, se realizó una revisión para identificar valores nulos, registros duplicados o datos 
+incorrectos. Durante la limpieza se conservaron los 170 registros, ya que no fue necesario eliminar ninguno. Finalmente, se elaboró una gráfica de líneas que permite observar 
+cómo han cambiado las emisiones de CO₂ en Colombia desde 1856 hasta 2025, identificando su crecimiento y las variaciones que se han presentado a lo largo del tiempo.
